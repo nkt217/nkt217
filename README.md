@@ -16,6 +16,17 @@
 <!-- ![GitHub followers](https://img.shields.io/github/followers/nkt217?label=Follow&style=social) -->
 <!-- ![](https://visitor-badge.glitch.me/badge?page_id=nkt217) -->
 
+### About me
+I am a seasoned Technology and Cloud consultant, specializing in DevOps and Product engineering. In my previous role at Cloudbloom Systems, I spearheaded the development of successful web applications in the eLearning and eCommerce domains, with a strong focus on multimedia content interaction. As an expert in DevOps, I effectively managed CI/CD pipelines for auto-scaling applications and standalone projects, ensuring seamless integration of new features and updates.
+
+I have a proven track record of helping various clients optimize their IT infrastructure and processes, resulting in improved efficiency, reduced costs, and enhanced overall performance. My extensive knowledge and skills in IT consulting, DevOps, and web development make me an invaluable asset to any organization seeking to achieve their goals.
+
+I am now seeking new opportunities to apply my expertise and make a meaningful contribution to an organization.
+
+### 📫 Looking for someone to help you get your vision to life, Let's connect!!
+
+Pick a slot and discuss about anything you are passionate about - but make sure to describe the agenda. [![Calendly](https://img.shields.io/badge/-Calendly-000?&logo=Calendly&logoColor=2C32F1)](https://calendly.com/ankitv2107/30min)
+
 ### Languages
 
 ![JavaScript](https://img.shields.io/badge/-Javacript-000?&logo=JavaScript)
@@ -55,11 +66,6 @@
 ![EdTech](https://img.shields.io/badge/-EdTech-000?&logo=EdTech&logoColor=F90)
 ![eCommerce](https://img.shields.io/badge/-eCommerce-000?&logo=eCommerce&logoColor=397FB8)
 ![FinTech](https://img.shields.io/badge/-FinTech-000?&logo=FinTech&logoColor=2C32F1)
-
-
-### 📫 Looking for someone to help you get your vision to life, Let's connect!!
-
-Pick a slot and discuss about anything you are passionate about - but make sure to describe the agenda. [![Calendly](https://img.shields.io/badge/-Calendly-000?&logo=Calendly&logoColor=2C32F1)](https://calendly.com/ankitv2107/30min)
 
 ## &#x1f4c8; GitHub Stats
 
