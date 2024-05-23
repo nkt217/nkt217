@@ -67,7 +67,7 @@ Pick a slot and discuss about anything you are passionate about - but make sure 
 ![eCommerce](https://img.shields.io/badge/-eCommerce-000?&logo=eCommerce&logoColor=397FB8)
 ![FinTech](https://img.shields.io/badge/-FinTech-000?&logo=FinTech&logoColor=2C32F1)
 
-## &#x1f4c8; GitHub Stats
+### &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/nkt217">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nkt217&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=5" />
@@ -79,8 +79,10 @@ Pick a slot and discuss about anything you are passionate about - but make sure 
 </a>
 <br>
 <br>
-<!-- <a href="https://github.com/MartinHeinz/python-project-blueprint">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MartinHeinz&repo=python-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+
+### Pinned Repositories
+<a href="https://github.com/nkt217/linux-developer-terminal">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nkt217&repo=linux-developer-terminal&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <br>
-<br> -->
+<br>
