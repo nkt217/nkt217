@@ -19,7 +19,7 @@
 ### About me
 I am a seasoned Technology and Cloud consultant, specializing in DevOps and Product engineering. In my previous role at Cloudbloom Systems, I spearheaded the development of successful web applications in the eLearning and eCommerce domains, with a strong focus on multimedia content interaction. As an expert in DevOps, I effectively managed CI/CD pipelines for auto-scaling applications and standalone projects, ensuring seamless integration of new features and updates.
 
-I have a proven track record of helping various clients optimize their IT infrastructure and processes, resulting in improved efficiency, reduced costs, and enhanced overall performance. My extensive knowledge and skills in IT consulting, DevOps, and web development make me an invaluable asset to any organization seeking to achieve their goals.
+I have a proven track record of helping various clients optimize their IT infrastructure and processes, resulting in improved efficiency, reduced costs, and enhanced overall performance. My extensive knowledge and skills in IT consulting, DevOps, and web development make me an invaluable asset to any organization seeking to achieve its goals.
 
 I am now seeking new opportunities to apply my expertise and make a meaningful contribution to an organization.
 
