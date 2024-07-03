@@ -4,7 +4,7 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <p>
   <em>
-    Solution Architect | DevOps Consultant | Fullstack Engineer 
+    Solution Architect | Fullstack Engineer | DevOps Consultant
   </em>
 </p>
 
