@@ -25,7 +25,7 @@ I am now seeking new opportunities to apply my expertise and make a meaningful c
 
 ### 📫 Looking for someone to help you get your vision to life, Let's connect!!
 
-Pick a slot and discuss about anything you are passionate about - but make sure to describe the agenda. [![Calendly](https://img.shields.io/badge/-Calendly-000?&logo=Calendly&logoColor=2C32F1)](https://calendly.com/ankitv2107/30min)
+Pick a slot and discuss about anything you are passionate about - but make sure to describe the agenda. [![Calendly](https://img.shields.io/badge/-Calendly-000?&logo=Calendly&logoColor=2C32F1)](https://calendly.com/nkt-217/30min)
 
 ### Languages
 
