@@ -70,19 +70,19 @@ Pick a slot and discuss about anything you are passionate about - but make sure 
 ### &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/nkt217">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nkt217&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=5&layout=compact" />
+  <img align="center" src="https://github-readme-stats-seven-coral-27.vercel.app/api/top-langs/?username=nkt217&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=5&layout=compact" />
 </a>
 <br>
 <br>
 <a href="https://github.com/nkt217">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nkt217&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Ankit's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats-seven-coral-27.vercel.app/api?username=nkt217&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Ankit's GitHub Stats" />
 </a>
 <br>
 <br>
 
 ### Pinned Repositories
 <a href="https://github.com/nkt217/linux-developer-terminal">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nkt217&repo=linux-developer-terminal&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats-seven-coral-27.vercel.app/api/pin/?username=nkt217&repo=linux-developer-terminal&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <br>
 <br>
